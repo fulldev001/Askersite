@@ -1,3 +1,7 @@
+# Hi, James!
+My Upwork account has been suspended because you requried my email before hiring me.
+My email is kolinwang999@gmail.com
+Let's work together for a long time.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
